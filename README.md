@@ -6,6 +6,7 @@
 <div data-importer="techs" align="center">
     <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
     <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
+    <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo" />
     <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
 </div>
 
